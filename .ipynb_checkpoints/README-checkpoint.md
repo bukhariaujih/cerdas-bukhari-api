@@ -10,7 +10,7 @@ uvicorn application.server.main:app
 ```
 
 2. Go to the end point
-[http://127.0.0.1:8000](http://127.0.0.1:8000) 
+[http://127.0.0.1:8000](http://127.0.0.1:8000/docs#/default/predict_api_predict_image_post) 
 
 3. Locate and click "try it out" button
 
