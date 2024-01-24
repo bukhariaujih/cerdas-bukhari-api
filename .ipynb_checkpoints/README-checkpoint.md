@@ -18,9 +18,9 @@ uvicorn application.server.main:app
 
 5. Click execute
 
-6. Example of server response
+6. Example of server response for img1.jpg
 
-   ```json
+```json
 {
   "results": [
     {
@@ -59,4 +59,3 @@ uvicorn application.server.main:app
     }
   ]
 }
-   ```
