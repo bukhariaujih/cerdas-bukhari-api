@@ -20,7 +20,7 @@ uvicorn application.server.main:app
 
 6. Example of server response
 
-   ```
+   ```json
 {
   "results": [
     {
